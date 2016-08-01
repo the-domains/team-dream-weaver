@@ -1,4 +1,3 @@
-layout_spectrum: 0.2231508744880557
 typography_spectrum: 0.360514092259109
 color:
   brandStrength: 0.9512237133458257
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.2231508744880557
 name: Team Dream Weaver
+title: We Are Here for You
 description: 'Your Dream, Our Team'
